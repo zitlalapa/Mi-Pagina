@@ -1,6 +1,10 @@
 h1{
-    color: darkmagenta;
-    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(121, 236, 219);
+    font-family: cursive;
+    font-size: 125px;
+    text-align: center;
+    -webkit-text-stroke-width: 7px;
+    -webkit-text-stroke-color: black;
 }
 h2{
     color: aquamarine;
@@ -9,4 +13,25 @@ h2{
 p{
     color: rgb(78, 207, 136);
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    background-image:url(https://wallpapers-clan.com/wp-content/uploads/2023/11/aesthetic-master-chief-halo-desktop-wallpaper-preview.jpg);
+    background-repeat: repeat-y;
+    text-align: center;
+}
+div {
+    background-color:#d14949;
+    padding: 10px 20px 30px 40px;
+    border: 2px solid black ;
+    margin: 20px 60px 10px 50px;
+}
+h3 {
+    color:#008B8B;
+}
+.links {
+    color: rgb(17, 185, 129);
+    text-decoration: none;
+}
+#u-list{
+    list-style-type: armenian;
 }
