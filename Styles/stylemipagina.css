@@ -52,3 +52,12 @@ a:hover{
     font-size: 1.5em;
     border: 2px dotted black;
 }
+h4{
+    color: rgb(122, 219, 122);
+    font-size: 70px;
+    -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-color: black;
+}
+h5{
+    font-size: 40px;
+}
