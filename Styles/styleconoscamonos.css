@@ -5,6 +5,7 @@ h1{
     text-align: center;
     -webkit-text-stroke-width: 7px;
     -webkit-text-stroke-color: black;
+    background-color: rgb(121, 243, 176);
 }
 label{
     font-size: 40px;
@@ -14,9 +15,14 @@ label{
 
 div{
     text-align: center;
+    background-color: rgb(228, 157, 131);
 }
 
 button{
     font-size: x-large;
     font-family: 'Times New Roman', Times, serif;
+    background-color: darkturquoise;
+}
+body{
+    background-color: rgb(185, 160, 236);
 }
