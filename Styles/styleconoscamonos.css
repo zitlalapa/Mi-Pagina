@@ -1,0 +1,22 @@
+h1{
+    color: rgb(121, 236, 219);
+    font-family: cursive;
+    font-size: 125px;
+    text-align: center;
+    -webkit-text-stroke-width: 7px;
+    -webkit-text-stroke-color: black;
+}
+label{
+    font-size: 40px;
+    color: darkviolet;
+
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
